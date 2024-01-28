@@ -1,0 +1,2 @@
+Lecture video - https://www.youtube.com/watch?v=rPVy-OzWatM&list=WL&index=4
+In this lecture we will create a python script to track a ball in realtime then send its output to unity to control the movement of a game object.
